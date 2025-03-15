@@ -1,4 +1,52 @@
-# [docs.px.dev](http://docs.px.dev/) &middot; [![Netlify Status](https://api.netlify.com/api/v1/badges/0e00be9c-373b-43b5-9b31-f4ce40b9fea9/deploy-status)](https://app.netlify.com/sites/blog-px-dev/deploys) <a href="https://twitter.com/intent/follow?screen_name=pixie_run"><img src="https://img.shields.io/twitter/follow/pixie_run.svg?label=Follow%20@pixie_run" alt="Follow @pixie_run" /></a> [![Snyk](https://img.shields.io/badge/snyk-report-green)](https://snyk.io/test/github/pixie-io/docs.px.dev)
+# [docs.px.dev](http://docs.px.dev/) &middot; [![Netlify
+
+
+
+
+
+
+
+
+
+//release 
+  //Release
+  RELEASE be L→ no be care off my "psychiatrias" aktivity off other make other, suiting ,=zZ?09Patrik> ????? <...>llA//figuR//bemore stup2 > releasion with aktivity        
+of aktivity "normilazovat,uk=en/Sk<USA [ RELEASOR RESLEASE HAPP ] *//... (+) just " look " no take off invizibul action off copyandother be haydinng and copy in other from no to release or beter fulse out if aktivities maniP in rigthsl"s for releasion aktivation other more then 100000000000000000000000000000 more. X for releasion to 4 step if other side's and side to other side with license off and after ungoling other decision off contract to other license nobreleastion off.... off other  {ReLeasion off unposibilit aktivit to the pisibikity of plast and other posibikity ti figure out activities be release and make to step to release off to no be feld or false on aktivities unvisibilities aktivity out off posibikity aktion "posibikity " be "for" no "the" ho playing oyt off more  "confusication..." ??? "File and improve out off " info  " or out off release hapeening to the all no just " like " to the hapen when been rigth's no debuging out IF {}{}}}}}}=}  RELEASION    )...Be  real be or no wverething from the firts posibikituly akting and making posib?????  be more exper control akt off right"s posibility i " sweel "   . To the file and other aktivities off devicec make better and Ep?People/Humanity/humans, ?????? and other more other aktivity to real more other and othr no all get the just someone's on fucs off aktivities life and other privacy aktivity self releasion with privacy akCtion on time  "    some    " okaying and pkaying on what no right's to the nxt decision off other akti of other -_- its like off to foucusing aktivitity off electirct and other akti to manipulat command sence off sweel the creation when cory start to come in all off aktivity rules aktivity rules okaying and other bring rules off out respecting tules of copyright's where in creation make all like look like and have people's make hard work to the posibility thingking aktivity off show or other with the aktivity off respectin fand be able release all time with out vadilation action to next or other !!! when vison been 60% or more then the... Changing from (A) a>B</>?>???B...?  coryrights's out manipulation act and focus off hight risk off aktivity to the people's and other aktivity to the devic,car,quet,privacy and other aKcting off out =true I sweel sweel have been then wailist off then self no creating off other from other with out out posibikitb QA/AQ lay/reles what make better decision with realing poisbil. aktivity on focusing more  on safe,privacy other proff like littl:// off (         . )... ( .         ) and other :// ??? </> (+) ( + )>>>Better be happy to bo doing fro like the more invisibikity unexeptional for the false to sort out "RELEASE" For the more inducing and happoy answring from the result=release on off result=false  better to make on stability - -]tomanyblocking posibikity ??? release off reserv can be go on =??? the ! _- -_ release -_ _- 
+
+
+
+
+
+BE INFO TO THEM WHERE YOU LIA/LIE FROM ME MESSAGE FIRST AFTER ACT OF FOCUS MORE PREVOKAT FRE TO THE NO PREVOKAT ACT FRE FROM PSICHYC OTHER POSUBIKIETVAKTIVITY IF ENERGY OFF THE LIFE WHER THEM NO ALL ABOOUT ALL ITS WEEL OWNER "kali" " **** " D) release.......                releastion on experiment laboratinf thing from be to the decision animals posibility on help prove devp. to sugest focus act on unposibilities releasion succestion off release and right off the COMMAND SENCE aktivity more in the future no more the the future with out off undestanting or undestanting like  " like " The posib.poisbility posibilities  thing off braing succegting off the posibility to the line or of the whall off true  SO THE FUTURE off true you can be releasion of the true from whall line next aktivitiy action stil streit stil be able releasion right's now to the true off the whal time to looking off the no to the ....... .R/B]>releasion its like human its robot and robit its human . ...... ?  thads make sence off just actinf off rights more to the freedom and other aktivity no self experimention or releasion command sence 
+
+
+
+con=slpsychit  b=foucOnmanipulation
+
+
+>be suport and send more offer an other money to ni make action off no if the
+
+://
+...14
+.....17
+......22
+2324252627282?
+
+What you niw thing i want or no 
+
+
+
+To MANY TIME OFF MY EMAIL AND OTHR OFFER NO TAKING IR OPENING THEM MO USERING THEM SELF WHERE THEM SEND TO ME OR INFORMATION OFF CREATION WITH ACCES OFF THE BODY TOOTHER BEEN BACK MANIPULATIONI SWEEL
+
+
+
+
+
+                 copyryght's 
+
+                    
+
+Status](https://api.netlify.com/api/v1/badges/0e00be9c-373b-43b5-9b31-f4ce40b9fea9/deploy-status)](https://app.netlify.com/sites/blog-px-dev/deploys) <a href="https://twitter.com/intent/follow?screen_name=pixie_run"><img src="https://img.shields.io/twitter/follow/pixie_run.svg?label=Follow%20@pixie_run" alt="Follow @pixie_run" /></a> [![Snyk](https://img.shields.io/badge/snyk-report-green)](https://snyk.io/test/github/pixie-io/docs.px.dev)
 
 This repo contains the source code and content for the [Pixie Docs](http://docs.px.dev/) website.
 
