@@ -1,5 +1,14 @@
 #Be more my  for first release read no just release read.PateiKsX/PZ19946
 
+://
+>
+ # Access Restrictions
+
+Certain files in this repository have restricted access due to their sensitive nature. Please follow the guidelines below:READED
+
+- `src/images/upper-connector-line.svg`: Access no on plan to this file is restricted need to be restrict src/imagines/aktivity. Do not modify or distribute without prior/mod permission from the repository maintainer editing.
+
+For any questions or requests for access, please contact the repository maintainer of testing responsibility of released them " conta " with out of rights question requests to other be resoect readition opening.
 
 
 
