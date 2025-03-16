@@ -1,0 +1,16 @@
+name: Restrict File Access
+
+on:
+  pull_request:
+    paths:
+      - 'src/images/upper-connector-line.svg'
+
+jobs:
+  restrict-file-access:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Check for restricted file changes
+        run: |
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'src/images/upper-connector-line.svg' && echo "Error: Restricted file modified" && exit 1 || echo "No restricted file changes"
